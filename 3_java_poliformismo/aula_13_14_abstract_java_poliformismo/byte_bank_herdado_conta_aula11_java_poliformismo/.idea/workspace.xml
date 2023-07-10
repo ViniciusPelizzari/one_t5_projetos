@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="92c84bd8-2f0f-4716-a5a3-35b58b8f985d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../intellij_aula_2_jre_jdk/out/production/Ola/Ola.class" beforeDir="false" afterPath="$PROJECT_DIR$/../intellij_aula_2_jre_jdk/out/production/Ola/Ola.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intellij_aula_2_jre_jdk/src/Ola.java" beforeDir="false" afterPath="$PROJECT_DIR$/../intellij_aula_2_jre_jdk/src/Ola.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intellj_aula_2_jre_jdk/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intellj_aula_2_jre_jdk/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intellj_aula_2_jre_jdk/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intellj_aula_2_jre_jdk/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intellj_aula_2_jre_jdk/Ola.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intellj_aula_2_jre_jdk/aula_2_intellij.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intellj_aula_2_jre_jdk/out/production/Ola/Ola.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intellj_aula_2_jre_jdk/src/Ola.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RQU9Zbhq1xXvIxQ8JoCVXCnany" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Vinícius Pelizzari/Desktop/projetos_one_t5/byte_bank_herdado_conta_aula11_java_poliformismo"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestarContas">
+    <configuration name="Execution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Execution" />
+      <module name="ByteBank_Herdado_aula_1_java_polimorfismo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestaGettersSetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestaGettersSetters" />
+      <module name="ByteBank_Herdado_aula_1_java_polimorfismo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestaValores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestaValores" />
+      <module name="ByteBank_Herdado_aula_1_java_polimorfismo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestarContas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestarContas" />
+      <module name="ByteBank_Encapsulado_aula_11_java_oo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestarContas" />
+        <item itemvalue="Application.Execution" />
+        <item itemvalue="Application.TestaValores" />
+        <item itemvalue="Application.TestaGettersSetters" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92c84bd8-2f0f-4716-a5a3-35b58b8f985d" name="Changes" comment="" />
+      <created>1687181652199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687181652199</updated>
+    </task>
+    <servers />
+  </component>
+</project>
