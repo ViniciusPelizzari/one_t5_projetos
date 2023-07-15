@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/6_java_excecoes.iml" filepath="$PROJECT_DIR$/.idea/6_java_excecoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula_1_2_3_pilhas_java_excecoes/aula_1_2_3_pilhas_java_excecoes.iml" filepath="$PROJECT_DIR$/aula_1_2_3_pilhas_java_excecoes/aula_1_2_3_pilhas_java_excecoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula_4_java_excecoes/aula_4_java_excecoes.iml" filepath="$PROJECT_DIR$/aula_4_java_excecoes/aula_4_java_excecoes.iml" />
+    </modules>
+  </component>
+</project>
