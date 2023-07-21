@@ -1,0 +1,5 @@
+gerar arquivo jar - f4 - artifacts - + - jar + from modules - seleciona o modulo - ok - apply - ok - build - build artifacts
+
+usar em outro projeto - abrir o projeto - f4 - adicionando biblioteca(libraries - + - java - selecionar projeto que foi gerado o jar - abrir pasta out - artifacts - selecionar arquivo jar - ok) - apply - ok
+
+depois só chamar a classe correspondente do projeto em que foi gerado o jar e instancia-la no novo projeto
